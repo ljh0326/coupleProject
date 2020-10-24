@@ -18,3 +18,5 @@ Server: AWS
 Docker
 
 CI/CD: Git action
+
+Logging: 
